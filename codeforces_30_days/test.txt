@@ -1,0 +1,40 @@
+An infinitely long conductor is bent into an 𝐿 shape as
+shown in Figure below. If a direct current of 5 𝐴 flows in
+the conductor, find the magnetic field intensity at (a)
+(2, 2, 0), (b) (0, − 2,0), and (c) (0, 0, 2). Take the origin
+at the bend.
+
+A conducting circular loop of radius 20 cm lies in the 𝑧 = 0 plane in a magnetic field,
+𝑩 = 10 cos 377𝑡 𝒂𝒛 mWb mଶ⁄ . Calculate the induced voltage in the loop.
+(All bold notations represent vector quantities)
+
+As an application of electromagnetic fields, Write a short mote on Magnetic
+Levitation. 
+
+Derive a formula expressing the de-Broglie wavelength of an electron in terms of
+potential difference (𝑉) in volts through which it is accelerated.
+
+Show that the direction of the recoiled electron in Compton’s effect is given by
+tan 𝜑 = 𝑐𝑜𝑡 𝜃
+2
+1 + ℎ𝑣
+𝑚଴𝑐ଶ
+where 𝜃 is the scattering angle and 𝜑 represents the recoil angle of the electron.
+
+Explain why pair production cannot happen in free space.
+
+Show that the deBroglie wavelength of a material particle of rest mass mo and
+charge e, accelerated from rest through a potential difference V volts
+relativistically is given by
+𝜆 = ℎ
+ට2𝑚௢𝑒𝑉 ൜1 + ൬ eV
+2m୭𝑐ଶ൰
+
+Illustrate Heisenberg’s uncertainty principle by using gamma ray microscope.
+
+Write short notes on the following;
+a. Breakdown voltage
+b. Knee voltage
+c. Limitation in the operating condition of pn junction.
+
+Explain the application of Hall effect in automotive and smart phones.
