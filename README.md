@@ -1,1 +1,1 @@
-This is my competetive programming archive
+This is my competitive programming archive
