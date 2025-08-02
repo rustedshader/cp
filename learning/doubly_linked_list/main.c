@@ -6,6 +6,7 @@ struct Node {
 	struct Node *prev;
 	struct Node *next;
 };
+typedef struct Node Node;
 
 Node *createNode(int data){
 	Node *newNode = (Node*)malloc(sizeof(Node));
